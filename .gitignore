@@ -9,3 +9,7 @@ build
 logs
 
 .DS_Store
+
+target
+
+.settings
